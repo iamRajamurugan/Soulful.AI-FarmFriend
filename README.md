@@ -1,7 +1,7 @@
 # FarmFriend - AI-Powered Farming Assistant
 
 ## Overview
-AgriVision is an advanced AI-driven agricultural assistant designed to help farmers scan, detect, and analyze crop health in real time. By leveraging AI models, it enables quick disease detection and provides fertilizer recommendations, ensuring efficient and smarter farming.
+FarmFriend is an advanced AI-driven agricultural assistant designed to help farmers scan, detect, and analyze crop health in real time. By leveraging AI models, it enables quick disease detection and provides fertilizer recommendations, ensuring efficient and smarter farming.
 
 ## Key Features
 - **Disease Detection** – Upload an image to determine if the crop is healthy or unhealthy.
@@ -32,7 +32,9 @@ project/
 
 ## Installation & Setup
 ### Prerequisites
+- TensorFlow 2.11
 - Python 3.8+
+- FastAPI
 - Node.js & npm
 - Virtual Environment (optional but recommended)
 
